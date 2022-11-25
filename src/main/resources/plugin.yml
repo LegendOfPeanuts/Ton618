@@ -2,4 +2,4 @@ name: Ton618
 version: '${project.version}'
 main: org.legendofpeanuts.ton618.Main
 api-version: 1.19
-authors: [LegendOfPeanuts]
+authors: [ LegendOfPeanuts ]
